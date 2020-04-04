@@ -1,10 +1,9 @@
 {
-  "name": "lockout",
+  "name": "Add App Name",
   "version": "1.0.0",
-  "description": "Lockout service for algobox",
+  "description": "Add App Descreption",
   "main": "app.js",
   "scripts": {
-    "test": "npm run test",
     "local": "nodemon app.js"
   },
   "author": "",
