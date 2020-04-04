@@ -1,0 +1,19 @@
+{
+  "name": "lockout",
+  "version": "1.0.0",
+  "description": "Lockout service for algobox",
+  "main": "app.js",
+  "scripts": {
+    "test": "npm run test",
+    "local": "nodemon app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "dotenv": "^8.2.0",
+    "nodemon": "^2.0.2"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
